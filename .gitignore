@@ -1,4 +1,13 @@
+# Ignore all
 /*
 
+# Unignore home config files 
 !.gitignore
 !.gitconfig
+
+# Unignore config but ignore all of config content
+!.config/
+.config/*
+
+# Unignore neovim config repo
+!.config/nvim/
