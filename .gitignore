@@ -4,6 +4,7 @@
 # Unignore home config files 
 !.gitignore
 !.gitconfig
+!.zshrc
 
 # Unignore config but ignore all of config content
 !.config/
